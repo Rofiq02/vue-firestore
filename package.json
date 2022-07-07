@@ -13,7 +13,7 @@
     "bootstrap-vue-datatable": "^1.0.7",
     "core-js": "^2.6.5",
     "firebase": "^7.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nprogress": "^0.2.0",
     "vue": "^2.6.10",
     "vue-loading-overlay": "^3.2.0",
